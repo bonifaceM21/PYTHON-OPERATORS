@@ -1,0 +1,33 @@
+#Arithmetic Operators
+x = 13
+y = 5 
+#Division
+print (x/y)
+#Floor division
+print (x//y)
+#Modulation
+print (x%y)
+#Multiplication
+print (x*y)
+#Subtraction
+print (x-y)
+#Addition
+print (x+y)
+print ("First" + "Last")
+
+#Relational operators
+x = 13
+y = 5
+#Greater
+print (x>y)
+#Greater or equal to
+print (x>=y)
+#Less than
+print (x<y)
+#Less than or equal to
+print (x<=y)
+#Equal to (true if both values are of the same value)
+print (x==y)
+#not equal to
+print (x!=y)
+
